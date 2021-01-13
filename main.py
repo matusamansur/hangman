@@ -1,9 +1,6 @@
 import random
 
 listOfWords = ["arara", "python"]
-# mistakes = 0
-# word = random.choice(listOfWords).lower()
-# secret = list("_"*len(word))
 
 def drawMistakes():
     if mistakes == 1:
